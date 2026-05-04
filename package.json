@@ -1,0 +1,6 @@
+{
+  "name": "agent-helm-tracker-de-habitos-saludables--moriz0fc",
+  "version": "1.0.0",
+  "description": "Proyecto de Helm [Gen6]: tracker de habitos saludables con estadisticas",
+  "main": "index.js"
+}
